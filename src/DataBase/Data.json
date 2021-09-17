@@ -1,0 +1,228 @@
+[
+    {
+        "id": 1,
+        "img":"https://i.ibb.co/ySjw8Cb/Captura-de-pantalla-2021-09-13-121831.jpg",
+        "title":"Expanding Cards",
+        "description":"With this project we will create a pop-up card that shows an enlarged view of the card when clicking",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/1.%20Expanding%20Cards"
+        
+    },
+    {
+        "id": 2,
+        "img":"https://i.ibb.co/WfJKMWP/Captura-de-pantalla-2021-09-17-105701.jpg",
+        "title":"Progress Steps",
+        "description":"With this project we will make a step of progress, which are very interesting",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/2.%20Progress%20Steps/ProgressSteps"
+        
+    },
+    {
+        "id": 3,
+        "img":"https://i.ibb.co/hykg5WF/Captura-de-pantalla-2021-09-14-184157.jpg",
+        "title":"Rotating Navigation",
+        "description":"With this projects we will learn to use a click event and an arrow function, to open and close a menu",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/3.%20Rotating%20Navigation"
+        
+    },
+    {
+        "id": 4,
+        "img":"https://i.ibb.co/3y1bx0h/Captura-de-pantalla-2021-09-14-220012.jpg",
+        "title":"Hidden Search",
+        "description":"With this project we will learn to make a search bar that when clicking is displayed",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/4.%20Hidden%20Search"
+        
+    },
+    {
+        "id": 5,
+        "img":"https://i.ibb.co/bXVxwxd/Captura-de-pantalla-2021-09-14-220141.jpg",
+        "title":"Blurry Loading",
+        "description":"With this project you will see a distorted image that will become sharp as the load progresses",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/5.%20Blurry%20Loading"
+        
+    },
+    {
+        "id": 6,
+        "img":"https://i.ibb.co/N2JrC5W/Captura-de-pantalla-2021-09-14-220319.jpg",
+        "title":"Drag N Drop",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/6.%20Drag%20N%20Drop"
+        
+    },
+    {
+        "id": 7,
+        "img":"https://i.ibb.co/f8FGcRv/Captura-de-pantalla-2021-09-14-220249.jpg",
+        "title":"Auto text",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/7.%20Auto%20text"
+        
+    },
+    {
+        "id": 8,
+        "img":"https://i.ibb.co/SxXgN2z/Captura-de-pantalla-2021-09-14-220407.jpg",
+        "title":"Hover Board",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/8.%20HoverBoard"
+        
+    },
+    {
+        "id": 9,
+        "img":"https://i.ibb.co/RDCmBs8/Captura-de-pantalla-2021-09-14-220459.jpg",
+        "title":"Scroll Animation",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/9.%20Scroll%20Animation"
+        
+    },
+    {
+        "id": 10,
+        "img":"https://i.ibb.co/rtB7YRC/Captura-de-pantalla-2021-09-14-220534.jpg",
+        "title":"Form Input Wave",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/10.%20Form%20Input%20Wave"
+        
+    },
+    {
+        "id": 11,
+        "img":"https://i.ibb.co/28nbdrP/Captura-de-pantalla-2021-09-14-220608.jpg",
+        "title":"Dad Jokes",
+        "description":"With this project we created a joke generator by consuming the icanhazdadjoke API, which sends us a random joke every time we call the API",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/11.%20Dad%20Jokes"
+        
+    },
+    {
+        "id": 12,
+        "img":"https://i.ibb.co/VDwRnwZ/Captura-de-pantalla-2021-09-17-150027.jpg",
+        "title":"Sound Board",
+        "description":"With this project we created a board with several buttons that when you click it, a different sound sounds",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/12.%20Sound%20Board"
+        
+    },
+    {
+        "id": 13,
+        "img":"https://i.ibb.co/MBkYm2B/Captura-de-pantalla-2021-09-17-150209.jpg",
+        "title":"Live User Filter",
+        "description":"With this project we create a filter where we can find a user by name or by location, for this we will use data from the Random User Generator API",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/13.%20Live%20User%20Filter"
+        
+    },
+    {
+        "id": 14,
+        "img":"https://i.ibb.co/KLq20yw/Captura-de-pantalla-2021-09-17-150243.jpg",
+        "title":"Button Ripple Effect",
+        "description":"With this project we create a button that when clicking it generates a visual effect",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/14.%20Button%20Ripple%20Effect"
+        
+    },
+    {
+        "id": 15,
+        "img":"https://i.ibb.co/xJzWSzs/Captura-de-pantalla-2021-09-17-150313.jpg",
+        "title":"Background Slider",
+        "description":"With this project we create an image carousel where the background image also changes",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/15.%20Background%20Slider"
+        
+    },
+    {
+        "id": 16,
+        "img":"https://i.ibb.co/0sgyZCK/Captura-de-pantalla-2021-09-15-164103.jpg",
+        "title":"Kinetic Loader",
+        "description":"With this project we will learn to make a spinner with pure CSS by using frames",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/16.%20Kinetic%20loader"
+        
+    },
+    {
+        "id": 17,
+        "img":"https://i.ibb.co/TbH7w7S/Captura-de-pantalla-2021-09-15-164039.jpg",
+        "title":"Netflix Navigation",
+        "description":"With this project we will create a menu that will be displayed by touching a button",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/17.%20Netflix%20Navigation"
+        
+    },
+    {
+        "id": 18,
+        "img":"https://i.ibb.co/98GXQPQ/Captura-de-pantalla-2021-09-15-164028.jpg",
+        "title":"Testimonial Box",
+        "description":"With this project we want to make a card that shows information from a list of objects",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/18.%20Testimonial%20Box%20Switcher"
+        
+    },
+    {
+        "id": 19,
+        "img":"https://i.ibb.co/PZR6kT7/Captura-de-pantalla-2021-09-15-164009.jpg",
+        "title":"Pokedex",
+        "description":"With this project we will create a list of pokemon cards. The information is extracted from an API",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/19.%20Pokedex%20API"
+        
+    },
+    {
+        "id": 20,
+        "img":"https://i.ibb.co/qCpBCGY/Captura-de-pantalla-2021-09-15-164052.jpg",
+        "title":"Double Click Heart",
+        "description":"With this project we will create a card that when we double click on the image a heart will come out",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/20.%20Doble%20click%20Heart"
+        
+    },
+    {
+        "id": 21,
+        "img":"https://i.ibb.co/drKqxqq/Captura-de-pantalla-2021-09-17-115030.jpg",
+        "title":"Event KeyCodes",
+        "description":"With this proyecto we are going to identify by an event, which key is pressed on the keyboard. and the information to the pressed key will be printed on the screen",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/21.%20Event%20keycodes"
+        
+    },
+    {
+        "id": 22,
+        "img":"https://i.ibb.co/mt6KRPZ/Captura-de-pantalla-2021-09-17-115851.jpg",
+        "title":"Mobile Tab Navigation",
+        "description":"With this project we are going to identify by an event, which icon is pressed in the design. And the information from the pressed icon, in this case an image, will be printed on the layout",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/22.%20Mobile%20Nav%20Navigation"
+        
+    },
+    {
+        "id": 23,
+        "img":"https://i.ibb.co/WsQ4V9p/Captura-de-pantalla-2021-09-17-122103.jpg",
+        "title":"Drink Water",
+        "description":"With this project we will carry out a process of filling a bottle",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/23.%20Drink%20Water"
+        
+    },
+    {
+        "id": 24,
+        "img":"https://i.ibb.co/rQ4x20z/Captura-de-pantalla-2021-09-17-125413.jpg",
+        "title":"Feedback UI Design",
+        "description":"With this project we are going to measure user satisfaction. There are 3 states to measure 'satisfaction'. And when pressing the submit button, it will show what status was selected and a message",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/24.%20Feedback%20UI%20Design"
+        
+    },
+    {
+        "id": 25,
+        "img":"https://i.ibb.co/MBmsc2g/Captura-de-pantalla-2021-09-17-135546.jpg",
+        "title":"Github Profiles",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/25.%20Github%20Profile"
+        
+    }
+
+]

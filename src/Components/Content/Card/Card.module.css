@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100;300;400&display=swap');
+
+*{
+
+    background-color: transparent;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 450px;
+    background-color: transparent;
+    border-radius: 10px;
+    margin: 10%;
+    color: black;
+    border: 2px solid rgba(11, 68, 127, 1);
+    text-align: center;
+    padding: 5px;
+    background-color: rgba(91, 127, 164, 0.733);
+    cursor: default;
+    box-shadow: 0px 6px 5px #f166a770;
+}
+
+.title{
+    font-size: 26px;
+    width: 300px;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    color: rgba(0, 0, 0, 0.801);
+    cursor: default;
+    font-family: 'Dancing Script', cursive;
+}
+
+.num{
+    width: 40px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 261px;
+    margin-top: -36px;
+    border-radius: 2px 2px 2px 20px;
+    background-color: rgba(11, 68, 127, 1);
+    border: 2px solid rgba(11, 68, 127, 1);
+    color: rgba(206, 14, 0, 0.877);
+    font-size: 30px;
+    cursor: default;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgba(245, 245, 245, 0.685);
+    padding: 10px;
+    box-shadow:  inset 0 -3em 3em rgba(0, 0, 0, 0.459),
+                       0 0  0 2px rgb(63, 62, 62),
+                       0.3em 0.3em 1em rgba(0,0,0,0.3);
+    /* background-color: rgba(0, 0, 0, 0.801); */
+    border-radius: 5px;
+}
+
+.text{
+    height: 50px;
+    margin: 15px;
+    /* color: rgba(0, 0, 0, 0.801); */
+    color: black;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    cursor: default;
+    width: 270px;
+    text-align:justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: -10px;
+    height: 40px;
+    cursor: default;
+}
+
+.ico{
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.btn{
+    border: none;
+    display: flex;
+    margin-top: 60px;
+}
+
+.tech{
+    font-size: 20px;
+    height: 50px;
+    border:2px solid rgba(11, 68, 127, 1);
+    color: rgba(11, 68, 127, 1);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px #00000098;
+                       
+    
+}
