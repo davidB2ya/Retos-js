@@ -4,7 +4,7 @@
         "img":"https://i.ibb.co/ySjw8Cb/Captura-de-pantalla-2021-09-13-121831.jpg",
         "title":"Expanding Cards",
         "description":"With this project we will create a pop-up card that shows an enlarged view of the card when clicking",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/1.%20Expanding%20Cards/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/1.%20Expanding%20Cards"
         
     },
@@ -13,7 +13,7 @@
         "img":"https://i.ibb.co/WfJKMWP/Captura-de-pantalla-2021-09-17-105701.jpg",
         "title":"Progress Steps",
         "description":"With this project we will make a step of progress, which are very interesting",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/2.%20Progress%20Steps/ProgressSteps/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/2.%20Progress%20Steps/ProgressSteps"
         
     },
@@ -22,7 +22,7 @@
         "img":"https://i.ibb.co/hykg5WF/Captura-de-pantalla-2021-09-14-184157.jpg",
         "title":"Rotating Navigation",
         "description":"With this projects we will learn to use a click event and an arrow function, to open and close a menu",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/3.%20Rotating%20Navigation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/3.%20Rotating%20Navigation"
         
     },
@@ -31,7 +31,7 @@
         "img":"https://i.ibb.co/3y1bx0h/Captura-de-pantalla-2021-09-14-220012.jpg",
         "title":"Hidden Search",
         "description":"With this project we will learn to make a search bar that when clicking is displayed",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/4.%20Hidden%20Search/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/4.%20Hidden%20Search"
         
     },
@@ -40,7 +40,7 @@
         "img":"https://i.ibb.co/bXVxwxd/Captura-de-pantalla-2021-09-14-220141.jpg",
         "title":"Blurry Loading",
         "description":"With this project you will see a distorted image that will become sharp as the load progresses",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/5.%20Blurry%20Loading/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/5.%20Blurry%20Loading"
         
     },
@@ -49,7 +49,7 @@
         "img":"https://i.ibb.co/N2JrC5W/Captura-de-pantalla-2021-09-14-220319.jpg",
         "title":"Drag N Drop",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/6.%20Drag%20N%20Drop/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/6.%20Drag%20N%20Drop"
         
     },
@@ -58,7 +58,7 @@
         "img":"https://i.ibb.co/f8FGcRv/Captura-de-pantalla-2021-09-14-220249.jpg",
         "title":"Auto text",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/7.%20Auto%20text/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/7.%20Auto%20text"
         
     },
@@ -67,7 +67,7 @@
         "img":"https://i.ibb.co/SxXgN2z/Captura-de-pantalla-2021-09-14-220407.jpg",
         "title":"Hover Board",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/8.%20HoverBoard/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/8.%20HoverBoard"
         
     },
@@ -76,7 +76,7 @@
         "img":"https://i.ibb.co/RDCmBs8/Captura-de-pantalla-2021-09-14-220459.jpg",
         "title":"Scroll Animation",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/9.%20Scroll%20Animation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/9.%20Scroll%20Animation"
         
     },
@@ -85,7 +85,7 @@
         "img":"https://i.ibb.co/rtB7YRC/Captura-de-pantalla-2021-09-14-220534.jpg",
         "title":"Form Input Wave",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/10.%20Form%20Input%20Wave/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/10.%20Form%20Input%20Wave"
         
     },
@@ -94,7 +94,7 @@
         "img":"https://i.ibb.co/28nbdrP/Captura-de-pantalla-2021-09-14-220608.jpg",
         "title":"Dad Jokes",
         "description":"With this project we created a joke generator by consuming the icanhazdadjoke API, which sends us a random joke every time we call the API",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/11.%20Dad%20Jokes/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/11.%20Dad%20Jokes"
         
     },
@@ -103,7 +103,7 @@
         "img":"https://i.ibb.co/VDwRnwZ/Captura-de-pantalla-2021-09-17-150027.jpg",
         "title":"Sound Board",
         "description":"With this project we created a board with several buttons that when you click it, a different sound sounds",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/12.%20Sound%20Board/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/12.%20Sound%20Board"
         
     },
@@ -112,7 +112,7 @@
         "img":"https://i.ibb.co/MBkYm2B/Captura-de-pantalla-2021-09-17-150209.jpg",
         "title":"Live User Filter",
         "description":"With this project we create a filter where we can find a user by name or by location, for this we will use data from the Random User Generator API",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/13.%20Live%20User%20Filter/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/13.%20Live%20User%20Filter"
         
     },
@@ -121,7 +121,7 @@
         "img":"https://i.ibb.co/KLq20yw/Captura-de-pantalla-2021-09-17-150243.jpg",
         "title":"Button Ripple Effect",
         "description":"With this project we create a button that when clicking it generates a visual effect",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/14.%20Button%20Ripple%20Effect/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/14.%20Button%20Ripple%20Effect"
         
     },
@@ -130,7 +130,7 @@
         "img":"https://i.ibb.co/xJzWSzs/Captura-de-pantalla-2021-09-17-150313.jpg",
         "title":"Background Slider",
         "description":"With this project we create an image carousel where the background image also changes",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/15.%20Background%20Slider/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/15.%20Background%20Slider"
         
     },
@@ -139,7 +139,7 @@
         "img":"https://i.ibb.co/0sgyZCK/Captura-de-pantalla-2021-09-15-164103.jpg",
         "title":"Kinetic Loader",
         "description":"With this project we will learn to make a spinner with pure CSS by using frames",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/16.%20Kinetic%20loader/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/16.%20Kinetic%20loader"
         
     },
@@ -148,7 +148,7 @@
         "img":"https://i.ibb.co/TbH7w7S/Captura-de-pantalla-2021-09-15-164039.jpg",
         "title":"Netflix Navigation",
         "description":"With this project we will create a menu that will be displayed by touching a button",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/17.%20Netflix%20Navigation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/17.%20Netflix%20Navigation"
         
     },
@@ -157,7 +157,7 @@
         "img":"https://i.ibb.co/98GXQPQ/Captura-de-pantalla-2021-09-15-164028.jpg",
         "title":"Testimonial Box",
         "description":"With this project we want to make a card that shows information from a list of objects",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/18.%20Testimonial%20Box%20Switcher/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/18.%20Testimonial%20Box%20Switcher"
         
     },
@@ -166,7 +166,7 @@
         "img":"https://i.ibb.co/PZR6kT7/Captura-de-pantalla-2021-09-15-164009.jpg",
         "title":"Pokedex",
         "description":"With this project we will create a list of pokemon cards. The information is extracted from an API",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/19.%20Pokedex%20API/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/19.%20Pokedex%20API"
         
     },
@@ -175,7 +175,7 @@
         "img":"https://i.ibb.co/qCpBCGY/Captura-de-pantalla-2021-09-15-164052.jpg",
         "title":"Double Click Heart",
         "description":"With this project we will create a card that when we double click on the image a heart will come out",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/20.%20Doble%20click%20Heart/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/20.%20Doble%20click%20Heart"
         
     },
@@ -184,7 +184,7 @@
         "img":"https://i.ibb.co/drKqxqq/Captura-de-pantalla-2021-09-17-115030.jpg",
         "title":"Event KeyCodes",
         "description":"With this proyecto we are going to identify by an event, which key is pressed on the keyboard. and the information to the pressed key will be printed on the screen",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/21.%20Event%20keycodes/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/21.%20Event%20keycodes"
         
     },
@@ -193,7 +193,7 @@
         "img":"https://i.ibb.co/mt6KRPZ/Captura-de-pantalla-2021-09-17-115851.jpg",
         "title":"Mobile Tab Navigation",
         "description":"With this project we are going to identify by an event, which icon is pressed in the design. And the information from the pressed icon, in this case an image, will be printed on the layout",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/22.%20Mobile%20Nav%20Navigation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/22.%20Mobile%20Nav%20Navigation"
         
     },
@@ -202,7 +202,7 @@
         "img":"https://i.ibb.co/WsQ4V9p/Captura-de-pantalla-2021-09-17-122103.jpg",
         "title":"Drink Water",
         "description":"With this project we will carry out a process of filling a bottle",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/23.%20Drink%20Water/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/23.%20Drink%20Water"
         
     },
@@ -211,7 +211,7 @@
         "img":"https://i.ibb.co/rQ4x20z/Captura-de-pantalla-2021-09-17-125413.jpg",
         "title":"Feedback UI Design",
         "description":"With this project we are going to measure user satisfaction. There are 3 states to measure 'satisfaction'. And when pressing the submit button, it will show what status was selected and a message",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/24.%20Feedback%20UI%20Design/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/24.%20Feedback%20UI%20Design"
         
     },
@@ -220,7 +220,7 @@
         "img":"https://i.ibb.co/MBmsc2g/Captura-de-pantalla-2021-09-17-135546.jpg",
         "title":"Github Profiles",
         "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
-        "url_deploy":"",
+        "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/25.%20Github%20Profile/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/25.%20Github%20Profile"
         
     }

@@ -1,20 +1,23 @@
 import React from 'react'
-import Search from '../Search/Search'
 import style from './Header.module.css'
+
 
 const Header = () => {
 
-    const clickBtn = () => {
+    // const clickBtn = () => {
 
-    }
+    // }
 
     return (
         <div>
-            <div className={style.containerBtn}>
+            {/* <div className={style.containerBtn}>
                 <button onClick={clickBtn} className={style.btn}></button>
-                {/* <button className={style.btn1}></button> */}
+                <button className={style.btn1}></button>
             </div>
-            <Search/>
+            */}
+            <div>
+                
+            </div>
             <h1>Proyectos</h1>
         </div>
     )
