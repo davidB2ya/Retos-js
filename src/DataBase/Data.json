@@ -48,7 +48,7 @@
         "id": 6,
         "img":"https://i.ibb.co/N2JrC5W/Captura-de-pantalla-2021-09-14-220319.jpg",
         "title":"Drag N Drop",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "description":"With this project we will carry out a Drag N Drop",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/6.%20Drag%20N%20Drop/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/6.%20Drag%20N%20Drop"
         
@@ -57,7 +57,7 @@
         "id": 7,
         "img":"https://i.ibb.co/f8FGcRv/Captura-de-pantalla-2021-09-14-220249.jpg",
         "title":"Auto text",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "description":"With this project we will see how to make an automatic text with different speeds",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/7.%20Auto%20text/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/7.%20Auto%20text"
         
@@ -66,7 +66,7 @@
         "id": 8,
         "img":"https://i.ibb.co/SxXgN2z/Captura-de-pantalla-2021-09-14-220407.jpg",
         "title":"Hover Board",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "description":"With this project we will show a board that by means of hovers the squares change color",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/8.%20HoverBoard/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/8.%20HoverBoard"
         
@@ -75,7 +75,7 @@
         "id": 9,
         "img":"https://i.ibb.co/RDCmBs8/Captura-de-pantalla-2021-09-14-220459.jpg",
         "title":"Scroll Animation",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "description":"With this project we will show some animations when we scroll",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/9.%20Scroll%20Animation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/9.%20Scroll%20Animation"
         
@@ -84,7 +84,7 @@
         "id": 10,
         "img":"https://i.ibb.co/rtB7YRC/Captura-de-pantalla-2021-09-14-220534.jpg",
         "title":"Form Input Wave",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse magni eligendi, labore expedita corporis nesciunt qui nisi nihil.",
+        "description":"With this project we will show a form with interesting animations",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/10.%20Form%20Input%20Wave/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/10.%20Form%20Input%20Wave"
         
