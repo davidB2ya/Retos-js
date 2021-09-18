@@ -9,14 +9,14 @@ const Header = () => {
     // }
 
     return (
-        <div>
+        <div className={style.header}>
             {/* <div className={style.containerBtn}>
                 <button onClick={clickBtn} className={style.btn}></button>
                 <button className={style.btn1}></button>
             </div>
             */}
             <div>
-                
+
             </div>
             <h1>Proyectos</h1>
         </div>
