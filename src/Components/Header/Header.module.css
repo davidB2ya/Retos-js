@@ -1,32 +1,27 @@
-.btn{
-    min-width: 50px;
-    height: 50px;
-    background-color: whitesmoke;
-    position: relative;
-    right: 20px;
-    border-radius: 50px;
-    bottom: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100;300;400&display=swap');
+
+.header{
+    background-color: rgba(91, 127, 164, 0.733);
+    height: 80px;
+    border-radius: 20px;
+}
+
+.img{
+    display: flex;
     justify-content: center;
-    border: none;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 58px;
 
 }
 
-.btn1{
-    min-width: 50px;
-    height: 50px;
-    background-color: whitesmoke;
-    position: relative;
-    left: 30px;
-    border-radius: 50px;
-    bottom: 110px;
+.h1{
+   
+    display: flex;
     justify-content: center;
-    border: none;
-}
-
-.containerBtn{
-    background-color: goldenrod;
-    position: relative;
-    width: 100px;
-    height: 50px;
-    border-radius: 50px;
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    color:rgba(11, 68, 127, 1);
+    margin-top: -100px;
 }

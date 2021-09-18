@@ -4,21 +4,12 @@ import style from './Header.module.css'
 
 const Header = () => {
 
-    // const clickBtn = () => {
-
-    // }
-
     return (
         <div className={style.header}>
-            {/* <div className={style.containerBtn}>
-                <button onClick={clickBtn} className={style.btn}></button>
-                <button className={style.btn1}></button>
-            </div>
-            */}
             <div>
-
+                <a className={style.img} href={"https://github.com/davidB2ya"}><img  src={'https://i.ibb.co/nzScyYq/Logo-David-05.png'} alt={"icon"} ></img></a>
             </div>
-            <h1>Proyectos</h1>
+            <h1 className={style.h1}>Proyectos</h1> 
         </div>
     )
 }
