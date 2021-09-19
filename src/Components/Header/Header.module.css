@@ -13,11 +13,9 @@
     height: 200px;
     position: relative;
     bottom: 58px;
-
 }
 
 .h1{
-   
     display: flex;
     justify-content: center;
     font-size: 80px;

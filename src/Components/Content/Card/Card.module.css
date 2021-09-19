@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100;300;400&display=swap');
 
 *{
-
+    /* margin: 20px; */
     background-color: transparent;
 }
 
@@ -21,6 +21,12 @@
     background-color: rgba(91, 127, 164, 0.733);
     cursor: default;
     box-shadow: 0px 6px 5px #f166a770;
+    transition:all .5s ease;
+    margin: 0px;
+}
+
+.card:hover{
+    transform:scale(1.05);
 }
 
 .title{
@@ -32,6 +38,7 @@
     color: rgba(0, 0, 0, 0.801);
     cursor: default;
     font-family: 'Dancing Script', cursive;
+    /* margin: 20px; */
 }
 
 .num{
@@ -48,6 +55,7 @@
     color: rgba(206, 14, 0, 0.877);
     font-size: 30px;
     cursor: default;
+    /* margin: 20px; */
 }
 
 .img{
@@ -60,20 +68,26 @@
                        0.3em 0.3em 1em rgba(0,0,0,0.3);
     /* background-color: rgba(0, 0, 0, 0.801); */
     border-radius: 5px;
+    transition:all .9s ease;
+    /* margin: 20px; */
+}
+
+.img:hover{
+    transform:scale(1.1);
 }
 
 .text{
     height: 50px;
     margin: 15px;
-    /* color: rgba(0, 0, 0, 0.801); */
     color: black;
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 0px;
     margin-bottom: 15px;
     cursor: default;
     width: 270px;
     text-align:justify;
     font-family: 'Roboto', sans-serif;
+    /* margin: 20px; */
 }
 
 .button{
@@ -83,6 +97,7 @@
     margin-top: -10px;
     height: 40px;
     cursor: default;
+    /* margin: 20px; */
 }
 
 .ico{
@@ -91,23 +106,23 @@
     margin: 0;
     border-radius: 5px;
     cursor: pointer;
-    
+    /* margin: 20px; */
 }
 
 .btn{
     border: none;
     display: flex;
     margin-top: 60px;
+    /* margin: 20px; */
 }
 
-.tech{
+/* .tech{
     font-size: 20px;
     height: 50px;
     border:2px solid rgba(11, 68, 127, 1);
     color: rgba(11, 68, 127, 1);
     border-radius: 5px;
     cursor: pointer;
-    box-shadow: 5px 5px 5px #00000098;
-                       
-    
-}
+    box-shadow: 5px 5px 5px #00000098;          
+    margin: 20px;
+} */

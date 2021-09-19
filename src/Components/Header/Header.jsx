@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className={style.header}>
             <div>
-                <a className={style.img} href={"https://github.com/davidB2ya"}><img  src={'https://i.ibb.co/nzScyYq/Logo-David-05.png'} alt={"icon"} ></img></a>
+                <a className={style.img} href={"https://github.com/davidB2ya"}><img  src={'https://i.ibb.co/2cDQyCm/Logo-David-05.png'} alt={"icon"} ></img></a>
             </div>
             <h1 className={style.h1}>Proyectos</h1> 
         </div>

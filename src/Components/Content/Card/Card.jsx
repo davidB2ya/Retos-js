@@ -1,5 +1,4 @@
 import React from 'react'
-// import data from '../../../DataBase/Data.json'
 import style from './Card.module.css'
 import iconDeploy from './rocket.png'
 import iconRepo from './github-sign.png'
