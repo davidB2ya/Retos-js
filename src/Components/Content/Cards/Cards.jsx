@@ -5,7 +5,7 @@ import style from './Cards.module.css'
 
 const Cards = () => {
 
-    const data = info;
+    const data = info
 
     const [challanges, setChallanges] = useState(data)
 

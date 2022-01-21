@@ -5,7 +5,7 @@
         "title":"Expanding Cards",
         "description":"With this project we will create a pop-up card that shows an enlarged view of the card when clicking",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/1.%20Expanding%20Cards/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/1.%20Expanding%20Cards"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/1.%20Expanding%20Cards"
         
     },
     {
@@ -14,7 +14,7 @@
         "title":"Progress Steps",
         "description":"With this project we will make a step of progress, which are very interesting",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/2.%20Progress%20Steps/ProgressSteps/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/2.%20Progress%20Steps/ProgressSteps"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/2.%20Progress%20Steps"
         
     },
     {
@@ -23,7 +23,7 @@
         "title":"Rotating Navigation",
         "description":"With this projects we will learn to use a click event and an arrow function, to open and close a menu",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/3.%20Rotating%20Navigation/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/3.%20Rotating%20Navigation"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/3.%20Rotating%20Navigation"
         
     },
     {
@@ -32,7 +32,7 @@
         "title":"Hidden Search",
         "description":"With this project we will learn to make a search bar that when clicking is displayed",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/4.%20Hidden%20Search/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/4.%20Hidden%20Search"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/4.%20Hidden%20Search"
         
     },
     {
@@ -41,7 +41,7 @@
         "title":"Blurry Loading",
         "description":"With this project you will see a distorted image that will become sharp as the load progresses",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/5.%20Blurry%20Loading/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/5.%20Blurry%20Loading"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/5.%20Blurry%20Loading"
         
     },
     {
@@ -50,7 +50,7 @@
         "title":"Drag N Drop",
         "description":"With this project we will carry out a Drag N Drop",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/6.%20Drag%20N%20Drop/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/6.%20Drag%20N%20Drop"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/6.%20Drag%20N%20Drop"
         
     },
     {
@@ -59,7 +59,7 @@
         "title":"Auto text",
         "description":"With this project we will see how to make an automatic text with different speeds",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/7.%20Auto%20text/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/7.%20Auto%20text"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/7.%20Auto%20text"
         
     },
     {
@@ -68,7 +68,7 @@
         "title":"Hover Board",
         "description":"With this project we will show a board that by means of hovers the squares change color",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/8.%20HoverBoard/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/8.%20HoverBoard"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/8.%20HoverBoard"
         
     },
     {
@@ -77,7 +77,7 @@
         "title":"Scroll Animation",
         "description":"With this project we will show some animations when we scroll",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/9.%20Scroll%20Animation/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/9.%20Scroll%20Animation"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/9.%20Scroll%20Animation"
         
     },
     {
@@ -86,7 +86,7 @@
         "title":"Form Input Wave",
         "description":"With this project we will show a form with interesting animations",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/10.%20Form%20Input%20Wave/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/10.%20Form%20Input%20Wave"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/10.%20Form%20Input%20Wave"
         
     },
     {
@@ -95,7 +95,7 @@
         "title":"Dad Jokes",
         "description":"With this project we created a joke generator by consuming the icanhazdadjoke API, which sends us a random joke every time we call the API",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/11.%20Dad%20Jokes/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/11.%20Dad%20Jokes"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/11.%20Dad%20Jokes"
         
     },
     {
@@ -104,7 +104,7 @@
         "title":"Sound Board",
         "description":"With this project we created a board with several buttons that when you click it, a different sound sounds",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/12.%20Sound%20Board/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/12.%20Sound%20Board"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/12.%20Sound%20Board"
         
     },
     {
@@ -113,7 +113,7 @@
         "title":"Live User Filter",
         "description":"With this project we create a filter where we can find a user by name or by location, for this we will use data from the Random User Generator API",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/13.%20Live%20User%20Filter/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/13.%20Live%20User%20Filter"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/13.%20Live%20User%20Filter"
         
     },
     {
@@ -122,7 +122,7 @@
         "title":"Button Ripple Effect",
         "description":"With this project we create a button that when clicking it generates a visual effect",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/14.%20Button%20Ripple%20Effect/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/14.%20Button%20Ripple%20Effect"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/14.%20Button%20Ripple%20Effect"
         
     },
     {
@@ -131,7 +131,7 @@
         "title":"Background Slider",
         "description":"With this project we create an image carousel where the background image also changes",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/15.%20Background%20Slider/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/15.%20Background%20Slider"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/15.%20Background%20Slider"
         
     },
     {
@@ -140,7 +140,7 @@
         "title":"Kinetic Loader",
         "description":"With this project we will learn to make a spinner with pure CSS by using frames",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/16.%20Kinetic%20loader/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/16.%20Kinetic%20loader"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/16.%20Kinetic%20loader"
         
     },
     {
@@ -149,7 +149,7 @@
         "title":"Netflix Navigation",
         "description":"With this project we will create a menu that will be displayed by touching a button",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/17.%20Netflix%20Navigation/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/17.%20Netflix%20Navigation"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/17.%20Netflix%20Navigation"
         
     },
     {
@@ -158,7 +158,7 @@
         "title":"Testimonial Box",
         "description":"With this project we want to make a card that shows information from a list of objects",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/18.%20Testimonial%20Box%20Switcher/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/18.%20Testimonial%20Box%20Switcher"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/18.%20Testimonial%20Box%20Switcher"
         
     },
     {
@@ -167,7 +167,7 @@
         "title":"Pokedex",
         "description":"With this project we will create a list of pokemon cards. The information is extracted from an API",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/19.%20Pokedex%20API/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/19.%20Pokedex%20API"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/19.%20Pokedex%20API"
         
     },
     {
@@ -176,7 +176,7 @@
         "title":"Double Click Heart",
         "description":"With this project we will create a card that when we double click on the image a heart will come out",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/20.%20Doble%20click%20Heart/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/20.%20Doble%20click%20Heart"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/20.%20Doble%20click%20Heart"
         
     },
     {
@@ -185,7 +185,7 @@
         "title":"Event KeyCodes",
         "description":"With this proyecto we are going to identify by an event, which key is pressed on the keyboard. and the information to the pressed key will be printed on the screen",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/21.%20Event%20keycodes/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/21.%20Event%20keycodes"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/21.%20Event%20keycodes"
         
     },
     {
@@ -194,7 +194,7 @@
         "title":"Mobile Tab Navigation",
         "description":"With this project we are going to identify by an event, which icon is pressed in the design. And the information from the pressed icon, in this case an image, will be printed on the layout",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/22.%20Mobile%20Nav%20Navigation/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/22.%20Mobile%20Nav%20Navigation"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/22.%20Mobile%20Nav%20Navigation"
         
     },
     {
@@ -203,7 +203,7 @@
         "title":"Drink Water",
         "description":"With this project we will carry out a process of filling a bottle",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/23.%20Drink%20Water/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/23.%20Drink%20Water"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/23.%20Drink%20Water"
         
     },
     {
@@ -212,7 +212,7 @@
         "title":"Feedback UI Design",
         "description":"With this project we are going to measure user satisfaction. There are 3 states to measure 'satisfaction'. And when pressing the submit button, it will show what status was selected and a message",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/24.%20Feedback%20UI%20Design/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/24.%20Feedback%20UI%20Design"
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/24.%20Feedback%20UI%20Design"
         
     },
     {
@@ -221,8 +221,47 @@
         "title":"Github Profiles",
         "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
         "url_deploy":"https://50-retos-kzjcc47fk-challengerjavascript.vercel.app/Challenger%20JavaScript/25.%20Github%20Profile/index.html",
-        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/25.%20Github%20Profile"
-        
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/25.%20Github%20Profile"
+    },
+    {
+        "id": 26,
+        "img":"https://i.ibb.co/P4NBk7V/Captura-de-pantalla-2022-01-21-171319.jpg",
+        "title":"Sticky Navigation",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/26.%20Sticky%20Navigation/index.html",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/26.%20Sticky%20Navigation"
+    },
+    {
+        "id": 27,
+        "img":"https://i.ibb.co/McYt3F4/Captura-de-pantalla-2022-01-21-171340.jpg",
+        "title":"Split Landing Page",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/27.%20%20Split%20Landing%20Page/index.html",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/27.%20%20Split%20Landing%20Page"
+    },
+    {
+        "id": 28,
+        "img":"https://i.ibb.co/qjvXJ80/Captura-de-pantalla-2022-01-21-171402.jpg",
+        "title":"Increment Counter",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/28.%20Increment%20Counter/index.html",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/28.%20Increment%20Counter"
+    },
+    {
+        "id": 29,
+        "img":"https://i.ibb.co/TbddZTh/Captura-de-pantalla-2022-01-21-171427.jpg",
+        "title":"FAQ Collapse",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/29.%20FAQ%20Collapse/index.html",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/29.%20FAQ%20Collapse"
+    },
+    {
+        "id": 30,
+        "img":"https://i.ibb.co/RSbJSyK/Captura-de-pantalla-2022-01-21-170047.jpg",
+        "title":"Toast Notifications",
+        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/30.%20Toast%20Notifications/index.html",
+        "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/30.%20Toast%20Notifications"
     }
 
 ]
