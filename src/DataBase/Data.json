@@ -227,7 +227,7 @@
         "id": 26,
         "img":"https://i.ibb.co/P4NBk7V/Captura-de-pantalla-2022-01-21-171319.jpg",
         "title":"Sticky Navigation",
-        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "description":"With this project we make a menu which changes theme when scrolling the site",
         "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/26.%20Sticky%20Navigation/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/26.%20Sticky%20Navigation"
     },
@@ -235,7 +235,7 @@
         "id": 27,
         "img":"https://i.ibb.co/McYt3F4/Captura-de-pantalla-2022-01-21-171340.jpg",
         "title":"Split Landing Page",
-        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "description":"A project where we can't decide between React and Angular",
         "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/27.%20%20Split%20Landing%20Page/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/27.%20%20Split%20Landing%20Page"
     },
@@ -243,7 +243,7 @@
         "id": 28,
         "img":"https://i.ibb.co/qjvXJ80/Captura-de-pantalla-2022-01-21-171402.jpg",
         "title":"Increment Counter",
-        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "description":"In this project we make a follower counter",
         "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/28.%20Increment%20Counter/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/28.%20Increment%20Counter"
     },
@@ -251,7 +251,7 @@
         "id": 29,
         "img":"https://i.ibb.co/TbddZTh/Captura-de-pantalla-2022-01-21-171427.jpg",
         "title":"FAQ Collapse",
-        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "description":"In this project we have a series of questions and their answers with a collapse system",
         "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/29.%20FAQ%20Collapse/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/29.%20FAQ%20Collapse"
     },
@@ -259,7 +259,7 @@
         "id": 30,
         "img":"https://i.ibb.co/RSbJSyK/Captura-de-pantalla-2022-01-21-170047.jpg",
         "title":"Toast Notifications",
-        "description":"With this project using input, we are going to ask for a username from github, and by pressing 'enter', we will print the basic information of the user, using the github api",
+        "description":"In this project we have 2 buttons one creates random messages and another lists them",
         "url_deploy":"https://50-retos-java-script-nine.vercel.app/Challenger%20JavaScript/30.%20Toast%20Notifications/index.html",
         "gitHub":"https://github.com/davidB2ya/50-Retos-JavaScript/tree/main/Challenger%20JavaScript/30.%20Toast%20Notifications"
     }

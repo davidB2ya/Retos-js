@@ -9,7 +9,7 @@ const Header = () => {
             <div>
                 <a className={style.img} href={"https://github.com/davidB2ya"}><img  src={'https://i.ibb.co/2cDQyCm/Logo-David-05.png'} alt={"icon"} ></img></a>
             </div>
-            <h1 className={style.h1}>Proyectos</h1> 
+            <h1 className={style.h1}>Projects JavaScript</h1> 
         </div>
     )
 }
